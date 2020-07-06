@@ -1,0 +1,2 @@
+<p>Xin chào {{ $data->fullname }}</p>
+<p>Ban quản lý kí túc xá trường Cao đẳng Công nghệ thông tin đã xác nhận đơn đăng kí nội trú của bạn. Vui lòng đến phòng quản lý tại phòng A105 để hoàn tất hồ sơ đăng kí</p>

@@ -1,0 +1,64 @@
+.ten {
+  color: #0B57F3;
+  margin-left: 120px;
+  margin-top: -70px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.diachi {
+  color: #0B57F3;
+  margin-left: 500px;
+  margin-top: -40px;
+}
+
+.tieude {
+	color: #FFFFFF;
+	/*margin-left: 20px;*/
+	padding: 8px;
+	background-color: #1976E9;
+	font-weight: bold;
+	width: 450px;
+}
+.sub-tieude {
+	color: #FF9517;
+	font-weight: bold;
+	text-align: center;
+}
+
+.text {
+	margin-left: 50px; 
+	margin-right: 10px;
+	text-align: justify;
+}
+span {
+	color: #FF9517;
+	margin-right: 10px;
+}
+.thongbao {
+	color: #FF9517;
+	font-weight: bold;
+}
+a {
+	text-decoration: inherit;
+}
+.copyright {
+	padding: 50px;
+	background-color: #2E2C2C;
+	color: #FFFFFF;
+}
+
+h2{
+  text-align:center;
+  padding: 20px;
+}
+
+.element {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-top: 20px;
+}
+/*.element a{
+	height: 100%;
+}*/
